@@ -25,8 +25,17 @@ cd LexiLink
 ```
 ### **2. Install Dependencies**
 ```sh
-pip install -r requirements.txt
+pip install numpy matplotlib
+
 ```
+### 🔹 **Note:**  
+- `re` and `collections` are **built-in Python modules**, so no installation is needed.  
+- Ensure you have **Python installed** by running:  
+  ```sh
+  python --version
+  ```
+- It’s recommended to use a virtual environment (`venv`) to keep dependencies organized.
+  
 ### **3. Run the Analysis.**
 ```sh
 python lexi_link.py
@@ -38,6 +47,14 @@ Anyone interested in:
 🔹 **Text Processing & NLP**  
 🔹 **African Language Studies**  
 🔹 **Phonetics & Language Comparisons**  
+
+## Dependencies
+### This project depends on the following libraries:
+
+* collections
+* numpy
+* re
+* matplotlib
 
 ## 🚀 Future Advancements  
 
