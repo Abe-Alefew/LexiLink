@@ -1,12 +1,12 @@
 # **LexiLink: Exploring the Linguistic Connection Between Afan Oromo & Somali Languages**  
 
-Welcome to **LexiLink**! This project is all about diving into the **textual and phonemic relationships** between the **Oromo** and **Somali** languages. Using **Python**, It analyzes shared words,cleans and tokenizes text, removes stopwords, counts word frequencies,and converts graphemes to phonemes.
+Welcome to **LexiLink**! This project is all about diving into the **textual and phonemic relationships** between the **Afan Oromo** and **Somali** languages. Using **Python**, it analyzes shared words, cleans and tokenizes text, removes stopwords, counts word frequencies, and converts graphemes to phonemes.
 
 
 
 ## **Why This Project?**  
 Languages often share hidden patterns, especially those with historical and geographical ties. The goal of LexiLink is to explore these connections by:  
-✔️ Identifying **common words** between Oromo & Somali  
+✔️ Identifying **common words** between Afan Oromo & Somali  
 ✔️ Analyzing their **phonemic structures**  
 ✔️ Understanding their **linguistic similarities** through data  
 
